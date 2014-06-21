@@ -10,3 +10,5 @@ Ex.
     <p:menuitem value="Email" icon="/resources/demo/images/dock/email.png" url="#"/>
     <p:menuitem value="Portfolio" icon="/resources/demo/images/dock/portfolio.png" url="#"/>
 </p:stack>
+
+![ScreenShot] (https://raw.github.com/eduardofx/Java/PrimeFaces/Dock.jpg)
