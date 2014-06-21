@@ -1,4 +1,4 @@
-![My image](eduardofx.github.com/Java/PrimeFaces/Dock.jpg)Ultimate JSF Framework
+Ultimate JSF Framework
 
 Menu - Stack
 
@@ -11,4 +11,4 @@ Ex.
     <p:menuitem value="Portfolio" icon="/resources/demo/images/dock/portfolio.png" url="#"/>
 </p:stack>
 
-![ScreenShot] (https://raw.githubusercontent.com/eduardofx/Java/master/PrimeFaces/Dock.jpg)
+![My image] (https://raw.githubusercontent.com/eduardofx/Java/master/PrimeFaces/Dock.jpg)
