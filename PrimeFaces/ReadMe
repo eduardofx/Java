@@ -11,10 +11,10 @@ Ex.
     <p:menuitem value="Portfolio" icon="/resources/demo/images/dock/portfolio.png" url="#"/>
 </p:stack>
 
-<<<<<<< HEAD
+
 ![](https://raw.githubusercontent.com/eduardofx/Java/master/PrimeFaces/Dock.jpg)
-=======
+
 ![] (https://raw.githubusercontent.com/eduardofx/Java/master/PrimeFaces/Dock.jpg)
 
 ![](http://i.imgur.com/eUz6yeu.jpg)
->>>>>>> origin/master
+
